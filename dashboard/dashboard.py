@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
+import ampy
 
 # Set judul untuk dashboard
 st.title("Dashboard Layanan Penyewaan Sepeda")
